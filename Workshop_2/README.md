@@ -7,3 +7,5 @@ tercero:
 **pip install matplotlib**
 
 nota: el código está en un notebook de jupiter, así que previamente debemos tener instalado el compilador de jupiter.
+
+perdon los dibujos de paint pero es que así fué que entendí.
